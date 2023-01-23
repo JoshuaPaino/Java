@@ -11,7 +11,7 @@ public class AssignmentsOperators {
         System.out.println("varInt2 after an increment " + varInt2);
         System.out.println("varInt3 after an increment " + varInt3);
 
-        
+
 
     }
 }
